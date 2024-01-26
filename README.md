@@ -1,4 +1,4 @@
-# HealU - POLYCLINIC MANAGEMENT SYSTEM
+# HealU - PolyClinic Management System
 
 ### Table of Contents
 
